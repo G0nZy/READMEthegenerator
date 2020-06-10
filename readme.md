@@ -1,23 +1,23 @@
 
 
 
-##### Halo #####   #Copyright202#
+##### Halo #####   #Copyright2020#
 
 ## g0nzy ##  
 
-## g0nzy ## ## g0nzy@swiss.ch ##
+## g0nzy ## ## g0nzy@protonmail.ch ##
 
                 ###### Description ######
 
             
-                     to autogenerate readme
+                     to create
 
 
 
 
     ####### how to INSTALL #######
 
-    install npm
+    easy
 
 
 

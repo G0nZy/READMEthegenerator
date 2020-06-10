@@ -1,20 +1,19 @@
 {
   "name": "readmethegenerator",
   "version": "1.0.0",
-  "description": "a small readme generator so i dont have to create one from scratch all the time",
+  "description": "a way to save time on readmes",
   "main": "index.js",
-  "dependencies": {},
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "none yet"
+    "url": "git+https://github.com/G0nZy/READMEthegenerator.git"
   },
-  "keywords": [
-    "none"
-  ],
   "author": "g0nzy",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/G0nZy/READMEthegenerator/issues"
+  },
+  "homepage": "https://github.com/G0nZy/READMEthegenerator#readme"
 }
