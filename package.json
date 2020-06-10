@@ -1,0 +1,20 @@
+{
+  "name": "readmethegenerator",
+  "version": "1.0.0",
+  "description": "a small readme generator so i dont have to create one from scratch all the time",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none yet"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "g0nzy",
+  "license": "ISC"
+}
