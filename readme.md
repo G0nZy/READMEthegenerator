@@ -1,7 +1,7 @@
 
 
 
-##### Halo #####   #Copyright2020#
+##### READMEtheGenerator #####   #Copyright2020#
 
 ## g0nzy ##  
 
@@ -18,6 +18,8 @@
     ####### how to INSTALL #######
 
     easy
+    
+          run npm install in your terminal
 
 
 
